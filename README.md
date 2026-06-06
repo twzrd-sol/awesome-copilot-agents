@@ -234,6 +234,10 @@ This section highlights useful MCP servers you can add to your Copilot setup to 
 - [gcloud](https://github.com/googleapis/gcloud-mcp) - Agent tools to interact with the Google Cloud environment using the gcloud CLI.
 - [KubeStellar Console](https://github.com/kubestellar/console) - MCP server bridging AI agents to multi-cluster Kubernetes environments for cluster management, pod inspection, and real-time observability.
 
+### Web3 & Agent Identity MCPs
+
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust scoring and x402 payment verification for AI agents on Solana; zero-install remote MCP (`https://intel.twzrd.xyz/mcp`).
+
 ## How to Use
 
 ### Setup Copilot in VSCode
